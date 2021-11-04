@@ -38,6 +38,6 @@
 
 ## Q\&A
 
-{% content-ref url="https://app.gitbook.com/s/2l5T59i1DdRMGxJdAlnn/" %}
-[AgentNEO 常见问题](https://app.gitbook.com/s/2l5T59i1DdRMGxJdAlnn/)
+{% content-ref url="QnA/wang-zhan-xi-tong-wen-ti-gou-mai-cao-zuo-tao-can/" %}
+[wang-zhan-xi-tong-wen-ti-gou-mai-cao-zuo-tao-can](QnA/wang-zhan-xi-tong-wen-ti-gou-mai-cao-zuo-tao-can/)
 {% endcontent-ref %}
